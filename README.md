@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quetzaly88
+- 👋 Hi, I’m Andrea / @Quetzaly88
 - 👀 I’m interested in life in general. I love to learn new things and enjoy every moment. 
 - 🌱 I’m currently learning Coding in Code Institute. 
 - 💞️ I’m looking to collaborate on any project that can help me develop my coding skills. 
